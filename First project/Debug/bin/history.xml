@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.3 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=First project.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\First project -TC:\CooCox\CoIDE\configuration\ProgramData\First project/arm-gcc-link.ld -g">
+      <target file="First project.elf" lastModified="148f5d2c3cc">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="148f576e074"/>
+         <source file="..\obj\main.o" lastModified="148f5d2c071"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="148f5b47a90"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="148f5b47be8"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="148f5bffe65"/>
+      </target>
+   </processor>
+</history>
