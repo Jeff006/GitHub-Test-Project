@@ -5,7 +5,7 @@ extern void SystemInit(void);
 
 int main(void)
 {
-
+	/* Test Git */
 	GPIO_InitTypeDef GPIO_InitStructure;
 	RCC_ClocksTypeDef RCC_ClockFreq;
 	uint32_t i=0;
